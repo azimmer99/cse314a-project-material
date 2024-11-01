@@ -1,4 +1,4 @@
-Player,Year,ADP,Round,Position ADP,Positional Rank,Overall Rank,Returned Value Overall,Return Value Position ,College,Conference,College Wins Final Szn,Draft Position,Draft Round,Team Drafted To,Team Drafted to Ws Prev Yr,Receptions,Yards,TDS
+Player,Year,ADP,Fantasy_Round,Position_ADP,Positional_Rank,Overall_Rank,Returned_Value_Overall,Returned_Value_Postition,College,Conference,College_Wins_Final_Szn,Draft_Position,Draft_Round,Team_Drafted_To,Team_Drafted_to_Ws_Prev_Yr,Receptions,Yards,TDS
 Dalton Kincaid,2023,122,11,12,11,115,1,1,Utah,Pac-12,10,25,1,Buffalo Bills,13,70,890,8
 Kyle Pitts,2021,46,4,4,6,89,0,0,Florida,SEC,8,4,1,Atlanta Falcons,4,43,770,12
 T.J. Hockenson,2019,151,13,16,32,208,0,0,Iowa,Big 10,9,8,1,Detroit Lions,6,49,760,6

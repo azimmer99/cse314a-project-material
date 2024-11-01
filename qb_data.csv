@@ -1,4 +1,4 @@
-Player,Year,ADP,Fantasy Round,Position ADP,Positional Rank,Overall Rank,Returned Value Overall,Returned Value Position,College,Conference,College Wins Final Szn,Draft Position,Draft Round,Team Drafted To,Team Drafted to Ws Prev Yr,Completions,Yards,TDs
+Player,Year,ADP,Fantasy_Round,Position_ADP,Positional_Rank,Overall_Rank,Returned_Value_Overall,Returned_Value_Postition,College,Conference,College_Wins_Final_Szn,Draft_Position,Draft_Round,Team_Drafted_To,Team_Drafted_to_Ws_Prev_Yr,Completions,Yards,TDS
 Anthony Richardson,2023,108,9,16,40,214,0,0,Florida,SEC,6,4,1,Indianapolis,4,176,2549,17
 Bryce Young,2023,174,15,22,23,107,1,0,Alabama,SEC,11,1,1,Carolina,7,245,3328,32
 Trevor Lawrence,2021,128,11,14,23,71,1,0,Clemson,ACC,10,1,1,Jacksonville,1,231,3153,24
